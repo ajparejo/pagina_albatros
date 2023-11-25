@@ -1,0 +1,152 @@
+[
+    {
+        "id": "3",
+        "avatar": "/players/bal_die.jpg",
+        "name": "Diego Balzano",
+        "nick": "Tiburoncin",
+        "nac": "27/11/2011",
+        "alt": "1,54 m",
+        "pes": "42 kg",
+        "pos": "Medio Scrum"
+    },
+    {
+        "id": "5",
+        "avatar": "/players/car_ces.jpg",
+        "name": "Cesar Caraballo",
+        "nick": "",
+        "nac": "19/10/2006",
+        "alt": "1,73 m",
+        "pes": "64 kg",
+        "pos": "2da linea"
+    },
+    {
+        "id": "5",
+        "avatar": "/players/coa_jos.jpg",
+        "name": "Joshuar Coa",
+        "nick": "",
+        "nac": "08/04/2008",
+        "alt": "1,70 m",
+        "pes": "78 kg",
+        "pos": "Pilar"
+    },
+    {
+        "id": "5",
+        "avatar": "/players/avatar.webp",
+        "name": "Alexis Diaz",
+        "nick": "",
+        "nac": "01/02/2006",
+        "alt": "1,71 m",
+        "pes": "90 kg",
+        "pos": "Centro / Flanker"
+    },
+    {
+        "id": "4",
+        "avatar": "/players/dia_mar.jpg",
+        "name": "Mariannys Diaz",
+        "nick": "",
+        "nac": "26/09/2006",
+        "alt": "1,60 m",
+        "pes": "52 kg",
+        "pos": "Centro"
+    },
+    {
+        "id": "4",
+        "avatar": "/players/esp_ant.jpg",
+        "name": "Anthony Espinoza",
+        "nick": "",
+        "nac": "05/05/2006",
+        "alt": "1,82 m",
+        "pes": "67 kg",
+        "pos": "Wing / Full back"
+    },
+    {
+        "id": "4",
+        "avatar": "/players/mar_san.jpg",
+        "name": "Santiago Martinez",
+        "nick": "",
+        "nac": "12/07/2008",
+        "alt": "1,72 m",
+        "pes": "64 kg",
+        "pos": "Wing"
+    },
+    {
+        "id": "2",
+        "avatar": "/players/mor_nah.jpg",
+        "name": "Nahum Morales",
+        "nick": "",
+        "nac": "28/3/2006",
+        "alt": "1,64 m",
+        "pes": "59 kg",
+        "pos": "Wing"
+    },
+    {
+        "id": "2",
+        "avatar": "/players/olm_die.jpg",
+        "name": "Diego Olmos",
+        "nick": "",
+        "nac": "14/08/2007",
+        "alt": "1,76 m",
+        "pes": "67",
+        "pos": "2da linea"
+    },
+    {
+        "id": "8",
+        "avatar": "/players/olm_edw.jpg",
+        "name": "Edward Olmos",
+        "nick": "",
+        "nac": "09/02/2006",
+        "alt": "1,78 m",
+        "pes": "76 kg",
+        "pos": "3da linea"
+    },
+    {
+        "id": "3",
+        "avatar": "/players/ove_iza.jpg",
+        "name": "Izad Oven",
+        "nick": "Naruto",
+        "nac": "12/05/2009",
+        "alt": "1,57 m",
+        "pes": "50 kg",
+        "pos": "Medio Scrum"
+    },
+    {
+        "id": "3",
+        "avatar": "/players/rod_isr.jpg",
+        "name": "Israel Rodriguez",
+        "nick": "",
+        "nac": "20/09/2007",
+        "alt": "1,65 m",
+        "pes": "50 kg",
+        "pos": "Medio Scrum"
+    },
+    {
+        "id": "3",
+        "avatar": "/players/sal_jul.jpg",
+        "name": "Julio Salazar",
+        "nick": "",
+        "nac": "04/07/2005",
+        "alt": "1,63 m",
+        "pes": "66 kg",
+        "pos": "Wing / Full back"
+    },
+    {
+        "id": "7",
+        "avatar": "/players/seq_ana.jpg",
+        "name": "Ana Sequera",
+        "nick": "",
+        "nac": "",
+        "alt": "",
+        "pes": "",
+        "pos": "Medio Scrum"
+    },
+    {
+        "id": "4",
+        "avatar": "/players/avatar.webp",
+        "name": "David Veliz",
+        "nick": "",
+        "nac": "",
+        "alt": "",
+        "pes": "",
+        "pos": "Wing"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": "3",
+        "name": "Camisa",
+        "price": "15$"
+    },
+    {
+        "id": "3",
+        "name": "Short",
+        "price": "10$"
+    },
+    {
+        "id": "7",
+        "name": "Tacos",
+        "price": "15$"
+    },
+    {
+        "id": "5",
+        "name": "Roscas",
+        "price": "3$"
+    },
+    {
+        "id": "8",
+        "name": "Casco",
+        "price": "15$"
+    },
+    {
+        "id": "2",
+        "name": "Balon",
+        "price": "30$"
+    }
+]

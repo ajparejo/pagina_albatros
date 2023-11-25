@@ -1,0 +1,31 @@
+---
+import Navbar from '../components/navbar.astro'
+//import Navbar from '../components/navbar'
+import '../../input.css'
+
+import Avatar from '../img/albt.svg'
+
+import { ViewTransitions } from 'astro:transitions'
+
+const { title } = Astro.props
+---
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" type="image/svg+xml" href={Avatar.src} />
+		<link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.8.1/flowbite.min.css" rel="stylesheet" />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+		<ViewTransitions/>
+		<title>Albatros Puerto Ordaz Rugby Club{title}</title>
+	</head>
+	<body>
+        <!-- <Navbar transition:persist/> -->
+		<Navbar/>
+		<main transition:animate="slide">
+			<slot />
+		</main>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.8.1/flowbite.min.js"></script>
+	</body>
+</html>

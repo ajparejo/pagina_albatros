@@ -1,0 +1,110 @@
+[
+    {
+        "id": "3",
+        "name": "Reny Balzano",
+        "nick": "",
+        "pos": "2da linea"
+    },
+    {
+        "id": "3",
+        "name": "Rodney Balzano",
+        "nick": "",
+        "pos": "2da linea"
+    },
+    {
+        "id": "7",
+        "name": "Daniel Cadena",
+        "nick": "",
+        "pos": "Pilar"
+    },
+    {
+        "id": "5",
+        "name": "Sergio Castillo",
+        "nick": "",
+        "pos": "2da linea"
+    },
+    {
+        "id": "8",
+        "name": "Moises Castillo",
+        "nick": "",
+        "pos": "Apertura"
+    },
+    {
+        "id": "2",
+        "name": "Leopoldo D'Santiago",
+        "nick": "Maraca",
+        "pos": "Wing"
+    },
+    {
+        "id": "2",
+        "name": "Jesus Diaz",
+        "nick": "Tele",
+        "pos": "Numero 8"
+    },
+    {
+        "id": "4",
+        "name": "Eduard Garcia",
+        "nick": "",
+        "pos": "Apertura / Centro"
+    },
+    {
+        "id": "4",
+        "name": "Jesus Guanaguaney",
+        "nick": "",
+        "pos": "Pilar"
+    },
+    {
+        "id": "4",
+        "name": "Mario Jimenez",
+        "nick": "",
+        "pos": "Medio Scrum"
+    },
+    {
+        "id": "6",
+        "name": "Isaac Medina",
+        "nick": "",
+        "pos": "Flanker"
+    },
+    {
+        "id": "6",
+        "name": "Eliezer Monagas",
+        "nick": "",
+        "pos": "Hooker"
+    },
+    {
+        "id": "1",
+        "name": "Andres Petit",
+        "nick": "",
+        "pos": "Pilar"
+    },
+    {
+        "id": "7",
+        "name": "Carlos Rivas",
+        "nick": "",
+        "pos": "Pilar"
+    },
+    {
+        "id": "7",
+        "name": "Daniel Rodriguez",
+        "nick": "",
+        "pos": "Pilar"
+    },
+    {
+        "id": "7",
+        "name": "Jose Sanchez",
+        "nick": "Colmena",
+        "pos": "Centro"
+    },
+    {
+        "id": "7",
+        "name": "Eduardo Tocora",
+        "nick": "",
+        "pos": "Hooker"
+    },
+    {
+        "id": "7",
+        "name": "Eduard Zorrilla",
+        "nick": "",
+        "pos": "Fullback"
+    }
+]

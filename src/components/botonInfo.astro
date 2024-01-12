@@ -1,0 +1,24 @@
+---
+
+---
+
+<button class="rounded text-white bg-[#042ce0] hover:bg-[#4f5cce] w-60" onclick="document.querySelector('dialog').showModal()">Información de contacto</button>
+
+<dialog class="w-1/2 h-1/2 rounded-lg justify-center align-middle">
+    <div class="flex flex-col items-center py-3 mx-auto">
+        <section class="mb-4">
+            <p class="text-2xl font-bold mb-4">Para la información de pago</p>
+            <p>Telefono: 123456789</p>
+            <p>Numero de cedula: 123456789</p>
+            <p>Banco: BANCO</p>
+            <p>Correo para enviar comprobante: correo@correo.com</p>
+        </section>
+        <button class="rounded text-white bg-[#e0041d] hover:bg-[#68041d] w-20" onclick="document.querySelector('dialog').close()">OK</button>
+    </div>
+</dialog>
+
+<style>
+    dialog::backdrop {
+        background: rgba(75, 75, 75, 0.651);
+        }
+</style>

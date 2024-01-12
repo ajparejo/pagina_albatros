@@ -1,32 +1,62 @@
 [
     {
         "id": "3",
+        "image": "/store/tshirt.jpg",
         "name": "Camisa",
         "price": "15$"
     },
     {
         "id": "3",
+        "image": "/store/short.jpg",
         "name": "Short",
         "price": "10$"
     },
     {
         "id": "7",
-        "name": "Tacos",
+        "image": "/store/peto.webp",
+        "name": "Chest Shell",
+        "price": "15$"
+    },
+    {
+        "id": "7",
+        "image": "/store/shortp.jpg",
+        "name": "Hips Shell",
+        "price": "15$"
+    },
+    {
+        "id": "7",
+        "image": "/store/bcleat.webp",
+        "name": "Tacos para Backs",
+        "price": "15$"
+    },
+    {
+        "id": "7",
+        "image": "/store/fcleat.avif",
+        "name": "Tacos para Forwards",
         "price": "15$"
     },
     {
         "id": "5",
+        "image": "/store/cleat.webp",
         "name": "Roscas",
         "price": "3$"
     },
     {
         "id": "8",
+        "image": "/store/helmet.avif",
         "name": "Casco",
         "price": "15$"
     },
     {
         "id": "2",
+        "image": "/store/ball.jpg",
         "name": "Balon",
         "price": "30$"
+    },
+    {
+        "id": "2",
+        "image": "/store/shield.jpg",
+        "name": "Pack de Choque",
+        "price": "50$"
     }
 ]

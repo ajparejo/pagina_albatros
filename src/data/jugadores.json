@@ -2,109 +2,173 @@
     {
         "id": "3",
         "name": "Reny Balzano",
+        "avatar": "/players/bal_die.jpg",
         "nick": "",
-        "pos": "2da linea"
+        "pos": "2da linea",
+        "nac": "",
+        "alt": "",
+        "pes": ""
     },
     {
         "id": "3",
         "name": "Rodney Balzano",
         "nick": "",
-        "pos": "2da linea"
+        "pos": "Flanker",
+        "nac": "",
+        "alt": "",
+        "pes": ""
     },
     {
         "id": "7",
         "name": "Daniel Cadena",
         "nick": "",
-        "pos": "Pilar"
+        "pos": "Pilar",
+        "nac": "",
+        "alt": "",
+        "pes": ""
     },
     {
         "id": "5",
         "name": "Sergio Castillo",
         "nick": "",
-        "pos": "2da linea"
+        "pos": "2da linea",
+        "nac": "",
+        "alt": "",
+        "pes": ""
     },
     {
         "id": "8",
         "name": "Moises Castillo",
         "nick": "",
-        "pos": "Apertura"
+        "pos": "Apertura / Flanker",
+        "nac": "",
+        "alt": "",
+        "pes": ""
     },
     {
         "id": "2",
         "name": "Leopoldo D'Santiago",
         "nick": "Maraca",
-        "pos": "Wing"
+        "pos": "Wing / FullBack",
+        "nac": "",
+        "alt": "",
+        "pes": ""
     },
     {
         "id": "2",
         "name": "Jesus Diaz",
         "nick": "Tele",
-        "pos": "Numero 8"
+        "pos": "Numero 8",
+        "nac": "",
+        "alt": "",
+        "pes": ""
     },
     {
         "id": "4",
         "name": "Eduard Garcia",
         "nick": "",
-        "pos": "Apertura / Centro"
+        "pos": "Apertura / Centro",
+        "nac": "",
+        "alt": "",
+        "pes": ""
     },
     {
         "id": "4",
         "name": "Jesus Guanaguaney",
         "nick": "",
-        "pos": "Pilar"
+        "pos": "Pilar",
+        "nac": "",
+        "alt": "",
+        "pes": ""
     },
     {
         "id": "4",
         "name": "Mario Jimenez",
         "nick": "",
-        "pos": "Medio Scrum"
+        "pos": "Medio Scrum / FullBack",
+        "nac": "",
+        "alt": "",
+        "pes": ""
     },
     {
         "id": "6",
         "name": "Isaac Medina",
         "nick": "",
-        "pos": "Flanker"
+        "pos": "Flanker",
+        "nac": "",
+        "alt": "",
+        "pes": ""
     },
     {
         "id": "6",
         "name": "Eliezer Monagas",
         "nick": "",
-        "pos": "Hooker"
+        "pos": "Hooker / Pilar",
+        "nac": "",
+        "alt": "",
+        "pes": ""
     },
     {
         "id": "1",
         "name": "Andres Petit",
         "nick": "",
-        "pos": "Pilar"
+        "pos": "Pilar",
+        "nac": "",
+        "alt": "",
+        "pes": ""
     },
     {
         "id": "7",
         "name": "Carlos Rivas",
         "nick": "",
-        "pos": "Pilar"
+        "pos": "Pilar",
+        "nac": "",
+        "alt": "",
+        "pes": ""
     },
     {
         "id": "7",
         "name": "Daniel Rodriguez",
         "nick": "",
-        "pos": "Pilar"
+        "pos": "2da linea",
+        "nac": "",
+        "alt": "",
+        "pes": ""
     },
     {
         "id": "7",
         "name": "Jose Sanchez",
         "nick": "Colmena",
-        "pos": "Centro"
+        "pos": "Centro",
+        "nac": "",
+        "alt": "",
+        "pes": ""
     },
     {
         "id": "7",
         "name": "Eduardo Tocora",
         "nick": "",
-        "pos": "Hooker"
+        "pos": "Hooker",
+        "nac": "",
+        "alt": "",
+        "pes": ""
+    },
+    {
+        "id": "7",
+        "name": "Juan Velazquez",
+        "nick": "",
+        "pos": "Hooker",
+        "nac": "",
+        "alt": "",
+        "pes": ""
     },
     {
         "id": "7",
         "name": "Eduard Zorrilla",
-        "nick": "",
-        "pos": "Fullback"
+        "nick": "Perol",
+        "pos": "Fullback",
+        "nac": "",
+        "alt": "",
+        "pes": ""
     }
 ]

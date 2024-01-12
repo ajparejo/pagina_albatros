@@ -133,11 +133,31 @@
         "id": "7",
         "avatar": "/players/seq_ana.jpg",
         "name": "Ana Sequera",
-        "nick": "",
+        "nick": "Capi",
         "nac": "",
         "alt": "",
         "pes": "",
         "pos": "Medio Scrum"
+    },
+    {
+        "id": "7",
+        "avatar": "/players/tor_ces.jpg",
+        "name": "Cesar Torres",
+        "nick": "Micro",
+        "nac": "",
+        "alt": "",
+        "pes": "",
+        "pos": "Wing"
+    },
+    {
+        "id": "7",
+        "avatar": "/players/tur_chr.jpg",
+        "name": "Christian Turen",
+        "nick": "",
+        "nac": "",
+        "alt": "",
+        "pes": "",
+        "pos": "Forward"
     },
     {
         "id": "4",
